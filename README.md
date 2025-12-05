@@ -1,4 +1,4 @@
-🛍️ Customer Shopping Behaviour – Data Engineering & Analytics Project
+🛍️ *Customer Shopping Behaviour – Data Engineering & Analytics Project*
 📘 Overview
 
 
