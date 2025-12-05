@@ -1,6 +1,11 @@
 🛍️ Customer Shopping Behaviour – Data Engineering & Analytics Project
 📘 Overview
 
+
+
+<img width="1920" height="1080" alt="Screenshot 2025-12-05 222200" src="https://github.com/user-attachments/assets/95f4cfaa-1182-42bd-a746-c8cd10ec7d82" />
+
+
 This project focuses on:
 ✔ Loading and cleaning a retail customer dataset using Python + Pandas
 ✔ Handling missing values and feature engineering
